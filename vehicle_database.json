@@ -1,0 +1,22 @@
+{
+  "MH-01-AB-1234": {
+    "owner": "Mr. Sharma",
+    "phone": "555-0199",
+    "model": "XUV700",
+    "status": "Scheduled Service (Sun 07 Dec - 10:00 AM)",
+    "history": [
+      {
+        "date": "2025-12-07 19:56:37",
+        "issue": "Brake Pad Wear",
+        "action": "Scheduled Service (Sun 07 Dec - 10:00 AM)"
+      }
+    ]
+  },
+  "DL-04-XY-9999": {
+    "owner": "Ms. Priya",
+    "phone": "555-2342",
+    "model": "Thar",
+    "status": "Healthy",
+    "history": []
+  }
+}
